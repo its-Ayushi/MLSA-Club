@@ -1,0 +1,52 @@
+h3{
+color:blue;
+font-family: helvetica;
+}
+
+h2 { 
+font-size: 30px; 
+font-family: Times new roman;
+color: gold;
+}
+h4{
+font-size: 20px;
+font-family: grey;
+text-align: center;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+}
+*{
+color:white;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; 
+  background: linear-gradient(55deg, black, purple);
+
+}
+ 
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+table, th, td {
+    border: 1px solid white;
+    padding: 6px;
+text-align: center; 
+}
+
+th {
+    background-color: #f2f2f2;
+color: black;
+}
+
+
+
